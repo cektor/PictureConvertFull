@@ -16,7 +16,7 @@ sudo apt install python3 -y
 
 ----------------------------------
 # Installation
-Install cleaning
+Install PictureConvertFull
 ```bash
 sudo git clone hub.com/cektor/PictureConvertFull.git
 ```
